@@ -1,2 +1,9 @@
 # Challenge-2--VBA
 challenge 2 assignment
+
+## Steve loves the workbook that was prepared for him. At the click of a button, he can analyze an entire dataset. Now, to do a little more research for his parents, he wants to expand the dataset to include the entire stock market over the last few years. This new and improved code will help Steve analyze a wide range of stocks with a click of a button and at faster speed; thus, allowing him to provide better stock pickings for his parents.
+
+## In comparing how the stock compared in performance from 2017 and 2018, the new analysis and color coded makes it clear that 2017 was a better year for stocks performance. Almost all stocks, except for one were in the positive rather than the negative. In 2018, the opposite was true, whereas only 2 stocks performed in the positive and the rest were in the negative. This analysis makes it very easy for Steve to pick and choose the stocks he wants to invest in. The execution times in the refactored script was also in a matter of seconds making this an easy process to use to analyze stocks 
+(both screenshots of execution times are attached in one document). 
+
+## In conclusion, there are both advantages and disadvantages to using refactoring code. The advantage of using a refactoring code is the speed it can run data on a large set of data. The disadvantage is the amount of time it takes to write the code. Of the challenges faced was a typo that took a long time to validate and find out where the error is coming from. It was also getting used to the number system of 0-11 instead of 1-12. The original VBA script was very useful to analyze a small set of stocks, but it would not be feasible to run a large data set. The original VBA script was also easier to write out which led to less errors. Although the refactoring of code was complicated at times, once it’s understandable it is a better option.
